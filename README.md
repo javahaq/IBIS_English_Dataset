@@ -4,6 +4,8 @@ Each data/node is written by 5 humen agents, and paired labelled with 5 annotato
 Each node has relationshio with with other nodes while following IBIS based on directed graph.
 In short, IBIS_English_Dataset provides a setting to train node extractor model and the link extractor model in english.
 
+The IBIS_English_Dataset is under construction and we are working now to migrate the data from the pilot phase of the project into this new framework.
+
 References
 If you use IBIS_English_Dataset for your research, then we would appreciate your including of the following references in the papers in which you publish your results:
 
