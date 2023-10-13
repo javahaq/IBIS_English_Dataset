@@ -9,4 +9,12 @@ The IBIS_English_Dataset is under construction and we are working now to migrate
 References
 If you use IBIS_English_Dataset for your research, then we would appreciate you including of the following reference in the papers in which you publish your results:
 
-Jawad Haqbeen, Sofia Sahab, Takayuki Ito. A large-scale labelled English dataset for Machine learning: Case of Issue-based Information System. In Proceedings of the 37th Annual Conference of the Japanese Society for Artificial Intelligence, Kumamoto, Japan, 6–9 June 2023
+@inproceedings{Haqbeen2023,
+  author = {Jawad Haqbeen and Sofia Sahab and Takayuki Ito},
+  title = {A Large-scale Labelled English Dataset for Machine Learning: Case of Issue-based Information System},
+  booktitle = {Proceedings of the 37th Annual Conference of the Japanese Society for Artificial Intelligence},
+  address = {Kumamoto, Japan},
+  month = {June},
+  year = {2023},
+  day = {6--9},
+}
