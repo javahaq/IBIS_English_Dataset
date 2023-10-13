@@ -8,7 +8,7 @@ The IBIS_English_Dataset is under construction and we are working now to migrate
 
 **Citation**
 
-If you use IBIS_English_Dataset for your research, then we would appreciate you including of the following reference in the papers in which you publish your results:
+If you use IBIS_English_Dataset for your research, then we would appreciate you including of the following bibtex reference in the papers in which you publish your results:
 
 ```
 @inproceedings{Haqbeen2023,
