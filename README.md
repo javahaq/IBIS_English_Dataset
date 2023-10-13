@@ -13,10 +13,12 @@ If you use IBIS_English_Dataset for your research, then we would appreciate you 
 @inproceedings{Haqbeen2023,
   author = {Jawad Haqbeen and Sofia Sahab and Takayuki Ito},
   title = {A Large-scale Labelled English Dataset for Machine Learning: Case of Issue-based Information System},
-  booktitle = {Proceedings of the 37th Annual Conference of the Japanese Society for Artificial Intelligence},
+  conference = {The 37th Annual Conference of the Japanese Society for Artificial Intelligence},
   address = {Kumamoto, Japan},
   month = {June},
+  pages = {1-4},
   year = {2023},
   day = {6--9},
+  doi = {https://doi.org/10.11517/pjsai.JSAI2023.0_1P5OS16b04},
 }
 ```
