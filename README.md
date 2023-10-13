@@ -9,4 +9,4 @@ The IBIS_English_Dataset is under construction and we are working now to migrate
 References
 If you use IBIS_English_Dataset for your research, then we would appreciate you including of the following reference in the papers in which you publish your results:
 
-Haqbeen et al. (2023). A large-scale labelled English dataset for Machine learning: Case of Issue-based Information System
+Jawad Haqbeen, Sofia Sahab, Takayuki Ito. A large-scale labelled English dataset for Machine learning: Case of Issue-based Information System. In Proceedings of the 37th Annual Conference of the Japanese Society for Artificial Intelligence, Kumamoto, Japan, 6–9 June 2023
